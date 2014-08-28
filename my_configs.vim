@@ -17,3 +17,10 @@ hi User2 guifg=#dd3333 guibg=#222222
 hi User3 guifg=#ff66ff guibg=#222222
 hi User4 guifg=#a0ee40 guibg=#222222
 hi User5 guifg=#eeee40 guibg=#222222
+
+"NERDTree setting
+nnoremap <silent> <F3> :NERDTreeToggle<CR>
+
+"Tagbar setting
+let g:tagbar_left = 1
+nnoremap <silent> <F4> :TagbarToggle<CR>
