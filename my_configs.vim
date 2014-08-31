@@ -24,3 +24,6 @@ nnoremap <silent> <F3> :NERDTreeToggle<CR>
 "Tagbar setting
 let g:tagbar_left = 1
 nnoremap <silent> <F4> :TagbarToggle<CR>
+
+"vim-markdown
+let g:vim_markdown_folding_disabled=1
