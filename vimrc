@@ -12,6 +12,7 @@ Plugin 'majutsushi/tagbar'
 Plugin 'tpope/vim-fugitive'
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
+Plugin 'vim-scripts/a.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
